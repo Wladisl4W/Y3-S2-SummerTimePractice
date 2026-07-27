@@ -1,4 +1,6 @@
 *.iml
+*.pdf
+*.docx
 .gradle
 /local.properties
 /.idea
